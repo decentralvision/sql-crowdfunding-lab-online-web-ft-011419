@@ -4,5 +4,5 @@ CREATE TABLE users (
   age INTEGER
 )
 CREATE TABLE projects (
-
+  id INTEGER PRIMARY KEY,
 )
