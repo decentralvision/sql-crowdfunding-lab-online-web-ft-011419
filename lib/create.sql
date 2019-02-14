@@ -3,4 +3,6 @@ CREATE TABLE users (
   name TEXT,
   age INTEGER
 )
-CREATE TABLE 
+CREATE TABLE projects (
+
+)
